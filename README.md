@@ -1,2 +1,2 @@
 Hola soy candelario
-Estoy en urso de progamación 
+Estoy en curso de progamación 
