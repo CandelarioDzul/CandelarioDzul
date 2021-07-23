@@ -1,2 +1,2 @@
 Hola soy candelario
-Estoy en curso de progamación 
+Estoy en un curso de progamación web
